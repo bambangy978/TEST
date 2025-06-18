@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml,"refresh="3600"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml,"refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,"refresh="3600"
 
 #EXTINF:-1 tvg-logo="https://alzizz.github.io/logos/vidio/championstv1.jpg" group-title="VIDIO",Champions TV 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
