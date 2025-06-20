@@ -1,7 +1,4 @@
-
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_ID.xml"refresh="3600"
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_SG.xml"refresh="3600"
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_UK.xml"refresh="3600"
+#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-logo="https://alzizz.github.io/logos/vidio/championstv1.jpg" group-title="VIDIO",Champions TV 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
