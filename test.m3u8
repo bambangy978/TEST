@@ -1,8 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://bit.ly/AstroEpg" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://bit.ly/UnifyEpg" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://bit.ly/RtmEpg" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U url-tvg="https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
+
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_ID.xml"refresh="3600"
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_SG.xml"refresh="3600"
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_UK.xml"refresh="3600"
