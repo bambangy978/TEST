@@ -2030,16 +2030,18 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
 #####KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #####KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Galaxy.png" group-logo="" group-title="ᴴᴰ",Galaxy
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2694.ts
+#####http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2694.ts
 #####https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+https://av-ch-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash/Galaxy-HD.mpd
 
 #####KODIPROP:inputstreamaddon=inputstream.adaptive 
 #####KODIPROP:inputstream.adaptive.manifest_type=dash 
 #####KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #####KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" },{ "kty":"oct", "k":"aiLzPud/q5azGP491+EzXQ", "kid":"c2N0djAwMDAwMDAwMDAwMA" },{ "kty":"oct", "k":"sZeAy9sLQthtNBUydZC2eQ", "kid":"aW5kb3NpYXIwMDAwMDAwMA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/GalaxyPremium.png" group-logo="" group-title="ᴴᴰ",Galaxy Premium
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
+#####http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
 #####https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+https://av-ch-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPremium-HD.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -2115,6 +2117,12 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/soccer.png" group-title="ᴴᴰ",Soccer Channel ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19989138_ico.png?ts=1680115454" group-title="ᴴᴰ",FLIK
+https://beetv.my.id/x/usee-flik-masihsama.m3u8
+
+EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19926476_ico.png?ts=1680115404" group-title="ᴴᴰ",BIOSKOP INDONESIA
+https://beetv.my.id/x/usee-bioskopindonesia-masihsama.m3u8
 
 
 === UK TNT Sports ====
