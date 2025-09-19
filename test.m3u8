@@ -1069,7 +1069,7 @@ https://wahyu1ptv.pages.dev/Tring1-HD.m3u8
 https://wahyu1ptv.pages.dev/Tring2-HD.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T3.png" group-title="SPORTS HD",055. TringSport3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/T3.png" group-title="SPORTS HD", TringSport3
 https://wahyu1ptv.pages.dev/Tring3-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Go3Sport.png" group-title="SPORTS HD", Go3SportOpen
@@ -1242,9 +1242,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#EXTINF:-1 group-title="SPORTS HD", Poker Go
-https://apollo.production-public.tubi.io/live/ac-pokergo.m3u8
-
 #EXTINF:-1 group-title="SPORTS HD", Real Madrid TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
@@ -1254,3 +1251,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 group-title="SPORTS HD", Billiard TV 
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/6063a9ba-71aa-44f2-bdcf-0eb1cabf7b34/2.m3u8
+
+#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="SPORTS HD",CCTV 16 (FHD)
+http://111.43.126.240:9003/hls/29/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="SPORTS HD",CCTV 5 (FHD)
+http://111.43.126.240:9003/hls/17/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="SPORTS HD",CCTV 5 (FHD)
+http://111.43.126.240:9003/hls/18/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="SPORTS HD",CCTV 5 CHN (FHD)
+http://125.227.210.55:8177/VideoInput/play.ts
