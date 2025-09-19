@@ -21,7 +21,7 @@ http://103.179.182.117:6768/hls/66/66.m3u8
 https://sweet-night-1d1d.worst.workers.dev/?id=17939&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6686&type=dash 
 
-#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/1PckWcoQXl-g_FBjYQhnCdPN0-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="Vidio Sports",Champions TV 2 LIVE
+#EXTINF:-1 tvg-id="Champions TV 2" tvg-logo="https://thumbor.prod.vidiocdn.com/ppVgoSYgif_dG_03jAtlQdaRvnQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="Vidio Sports",Champions TV 2 LIVE
 http://103.179.182.117:6768/hls/88/88.m3u8
 
 #EXTINF:-1 tvg-id="Champions TV 3" tvg-logo="https://thumbor.prod.vidiocdn.com/YgfXn6LPm60xbOwnKYX37R56PpQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="Vidio Sports",Champions TV 3 🟡
@@ -43,7 +43,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/1PckWcoQXl-g_FBjYQhnCdPN0-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="Vidio Sports",Champions TV 5 LIVE
+#EXTINF:-1 tvg-id="Champions TV 5" tvg-logo="https://thumbor.prod.vidiocdn.com/rU_gPQKkA6dYjjd21qCpDMLecHQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="Vidio Sports",Champions TV 5 LIVE
 http://103.179.182.117:6768/hls/21/21.m3u8
 
 #EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/twa7eNZKvUPD6_FO5t6U0T5fsaU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="Vidio Sports",Champions TV 6 🟡
@@ -54,7 +54,7 @@ http://103.179.182.117:6768/hls/21/21.m3u8
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 1" tvg-logo="https://thumbor.prod.vidiocdn.com/1PckWcoQXl-g_FBjYQhnCdPN0-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="Vidio Sports",Champions TV 6 LIVE
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://thumbor.prod.vidiocdn.com/twa7eNZKvUPD6_FO5t6U0T5fsaU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="Vidio Sports",Champions TV 6 LIVE
 http://103.179.182.117:6768/hls/94/94.m3u8
 
 #EXTINF:-1 tvg-id="Premier League" tvg-logo="https://thumbor.prod.vidiocdn.com/mRPZMC2zwT68k6JII0b2tZZHy6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-8d1830.jpg" group-title="Vidio Sports",Premier League 🟡
