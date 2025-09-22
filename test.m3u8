@@ -971,6 +971,20 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 
 
 
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="TNT SPORTS",GB : TNT SPORTS 01
+http://mains.services/live/pmf0423/1aku0jt%40/6c5b4010-afa9-4e64-921b-263217b936da.ts
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-title="TNT SPORTS",GB : TNT SPORTS 02
+http://mains.services/live/pmf0423/1aku0jt%40/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.ts
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="GB : TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-title="TNT SPORTS",GB : TNT SPORTS 03
+http://mains.services/live/pmf0423/1aku0jt%40/3487f1f4-771e-4c8c-aa7c-80945800c7d9.ts
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="GB : TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-title="TNT SPORTS",GB : TNT SPORTS 04
+http://mains.services/live/pmf0423/1aku0jt%40/26a00017-1496-468f-8693-93df9e1b846f.ts
+#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="GB : TNT SPORTS 05" tvg-logo="http://145.239.7.84/logos/TNTSports5_Logo_White_RGB_Logo.png" group-title="TNT SPORTS",GB : TNT SPORTS 05
+http://mains.services/live/pmf0423/1aku0jt%40/92614ec7-2113-4151-bc29-3a23ade80cc7.ts
+
+
+
+
 ############################   SPORTS  ##########################
 
 #EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="SPORTS HD", Hub Premier2 FHD
