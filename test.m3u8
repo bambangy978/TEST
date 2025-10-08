@@ -3113,3 +3113,10 @@ https://womensnetwork-xumo.amagi.tv/playlist.m3u8
 https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="XUMO TV" tvg-id="XploreTV.us",Xplore
 https://xplore-xumo.amagi.tv/playlist.m3u8
+
+
+##==== XXX ====
+#EXTINF:-1 group-title="XXX" tvg-id="",Miami TV Mexico
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-id="",Playboy TV Latin America HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
