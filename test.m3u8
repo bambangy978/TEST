@@ -563,12 +563,6 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 https://loganettv.vercel.app/strawberry.m3u
 #EXTINF:-1 group-title="Общие", Новая ссылка https://loganettv.vercel.app/strawberry.m3u
 https://loganettv.vercel.app/strawberry.m3u
-#EXTINF:-1 group-title="Общие", Telegram-канал
-https://t.me/loganettv_original
-#EXTINF:-1 group-title="Общие", Telegram-чат
-https://t.me/loganettv_support
-#EXTINF:-1 group-title="Общие", Telegram-резерв
-https://t.me/iptvbackup
 #EXTINF:-1 group-title="Adult", Adult IPTV Big Ass 
 http://cdn.adultiptv.net/bigass.m3u8
 #EXTINF:-1 group-title="Adult", Adult IPTV Big Dick 
@@ -611,12 +605,8 @@ http://cdn.adultiptv.net/teen.m3u8
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 group-title="Adult", Babes TV HD
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult", Barely Legal
-http://78.108.251.120:8082/Barely_Legal
 #EXTINF:-1 group-title="Adult", Brazzers TV Europe HD
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult", CentoXCento HD
-https://5f22d76e220e1.streamlock.net/canale10/canale10/playlist.m3u8
 #EXTINF:-1 group-title="Adult", Desire HD
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Adult", Dorcel TV HD 
@@ -629,20 +619,10 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Adult", Exxxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
-#EXTINF:-1 group-title="Adult", Hustler TV
-http://213.169.39.30:5115
 #EXTINF:-1 group-title="Adult", Hustler HD
 http://193.111.244.35:7474/hustlerhd/manifest.m3u8
 #EXTINF:-1 group-title="Adult", Leo HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult", Penthouse Gold HD
-http://141.95.55.143/CH3517/index.m3u8
-#EXTINF:-1 group-title="Adult", Penthouse Passion HD
-http://141.95.55.143/CH3517/index.m3u8
-#EXTINF:-1 group-title="Adult", Pink Club TV HD
-https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
-#EXTINF:-1 group-title="Adult", Playboy TV HD
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="Adult", Private SD
 http://213.169.39.30:5036
 #EXTINF:-1 group-title="Adult", Private HD
@@ -651,23 +631,5 @@ http://78.108.251.120:8082/Private_HD
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF:-1 group-title="Adult", Reality Kings TV HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult", Red Lips
-http://77.235.1.19:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Adult", Super One
-http://78.108.251.120:8082/Super_One
-#EXTINF:-1 group-title="Adult", Venus
-http://181.188.216.5:18000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Adult" tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X HD
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="Adult", Vivid Red
-http://str6.oxtve.live:8080/vividredhd/mpegts
-#EXTINF:-1 group-title="Adult", Vivid Red HD
-http://103.49.40.100:30010/VIVIDREDHD
-#EXTINF:-1 group-title="Adult", XY Max HD
-http://str6.oxtve.live:8080/xymaxhd/mpegts
-#EXTINF:-1 group-title="Adult", XY Plus HD
-http://str6.oxtve.live:8080/xyplushd/mpegts
-#EXTINF:-1 group-title="Adult", Кино 18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 group-title="Adult", Русская ночь
-http://77.235.1.19:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Adult",Playboy +
+http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6242/index.m3u8
