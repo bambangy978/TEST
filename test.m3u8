@@ -372,22 +372,6 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 #EXTINF:-1 group-title="SPORTS HD", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sonysports1.png" group-title="SPORTS HD", Sony Ten 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sonysports2.png" group-title="SPORTS HD" ,Sony Ten 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?token=gH6favjoMIy0Ci5tFBoo8AuyzMvw1EMQ
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="starspselect1.mv" tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="SPORTS HD", Star Sports Select 1 HD
-https://maldivesn.net/hilaytv/starsportsselect1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="starspselect2.mv" tvg-name="Star Sports Select 2 HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="SPORTS HD", Star Sports Select 2 HD
-https://maldivesn.net/hilaytv/starsportsselect2
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="SPORTS HD", ASTRO PREMIER LEAGUE 2
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 https://wahyu1ptv.pages.dev/AstroPremierLeague2-HD.m3u8
@@ -441,16 +425,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/soccer.png" group-title="SPORTS HD",Soccer Channel ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 tvg-name="ASTRO PREMIER LEAGUE 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="SPORTS HD", ASTRO PREMIER LEAGUE 1
-http://mains.services/live/pmf0423/1aku0jt%40/908d1263-42e6-4d4d-becb-ff4c3f2a0e2d.ts
-#EXTINF:-1 tvg-name="ASTRO PREMIER LEAGUE 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="SPORTS HD", ASTRO PREMIER LEAGUE 2
-http://mains.services/live/pmf0423/1aku0jt%40/789d04b3-af43-4185-a849-a4cbcd123660.ts
-#EXTINF:-1 tvg-name="ASTRO GRANDSTAND" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="SPORTS HD", ASTRO GRANDSTAND
-http://mains.services/live/pmf0423/1aku0jt%40/a2688b68-2f5e-4891-a26f-a61d587aae17.ts
-
-#EXTINF:-1 tvg-name="ASTRO FOOTBALL" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="SPORTS HD", ASTRO FOOTBALL
-http://mains.services/live/pmf0423/1aku0jt%40/402826aa-5119-4254-b520-13c53cb5fa4a.ts
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/antik/eurosport1.jpg" group-title="SPORTS HD",EUROSPORT 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -579,7 +553,121 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 
 
 ##==== XXX ====
-#EXTINF:-1 group-title="XXX" tvg-id="",Miami TV Mexico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 group-title="XXX" tvg-id="",Playboy TV Latin America HD
+#EXTINF:-1 tvg-id="Kaloopy TV" tvg-name="Kaloopy TV" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/kaloopy.jpg" group-title="Adult",KALOOPY TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/df2e1f8e-4f47-41b0-bd26-626e8a63caf2/2.m3u8
+#EXTINF:-1 group-title="Adult" tvg-id="",Playboy TV Latin America HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 group-title="Общие", Ссылка на плейлист устарела
+https://loganettv.vercel.app/strawberry.m3u
+#EXTINF:-1 group-title="Общие", Новая ссылка https://loganettv.vercel.app/strawberry.m3u
+https://loganettv.vercel.app/strawberry.m3u
+#EXTINF:-1 group-title="Общие", Telegram-канал
+https://t.me/loganettv_original
+#EXTINF:-1 group-title="Общие", Telegram-чат
+https://t.me/loganettv_support
+#EXTINF:-1 group-title="Общие", Telegram-резерв
+https://t.me/iptvbackup
+#EXTINF:-1 group-title="Adult", Adult IPTV Big Ass 
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Big Dick 
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Big Tits 
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Blonde 
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Blowjob 
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Cuckold 
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Fetish 
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Hardcore 
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Interracial 
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Latina 
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Lesbian 
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Live Cams 
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Milf 
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV POV 
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Pornstar 
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Rough 
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Russian 
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Teen 
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="Adult", Adult IPTV Threesome 
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="Adult", Babes TV HD
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult", Barely Legal
+http://78.108.251.120:8082/Barely_Legal
+#EXTINF:-1 group-title="Adult", Brazzers TV Europe HD
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult", CentoXCento HD
+https://5f22d76e220e1.streamlock.net/canale10/canale10/playlist.m3u8
+#EXTINF:-1 group-title="Adult", Desire HD
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult", Dorcel TV HD 
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult", Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult", Eroxxx HD
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult", Extasy HD
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult", Exxxxotica
+http://31.148.48.15:80/O-la-la/index.m3u8
+#EXTINF:-1 group-title="Adult", Hustler TV
+http://213.169.39.30:5115
+#EXTINF:-1 group-title="Adult", Hustler HD
+http://193.111.244.35:7474/hustlerhd/manifest.m3u8
+#EXTINF:-1 group-title="Adult", Leo HD
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult", Penthouse Gold HD
+http://141.95.55.143/CH3517/index.m3u8
+#EXTINF:-1 group-title="Adult", Penthouse Passion HD
+http://141.95.55.143/CH3517/index.m3u8
+#EXTINF:-1 group-title="Adult", Pink Club TV HD
+https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
+#EXTINF:-1 group-title="Adult", Playboy TV HD
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="Adult", Private SD
+http://213.169.39.30:5036
+#EXTINF:-1 group-title="Adult", Private HD
+http://78.108.251.120:8082/Private_HD
+#EXTINF:-1 group-title="Adult", Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+#EXTINF:-1 group-title="Adult", Reality Kings TV HD
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Adult", Red Lips
+http://77.235.1.19:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Adult", Super One
+http://78.108.251.120:8082/Super_One
+#EXTINF:-1 group-title="Adult", Venus
+http://181.188.216.5:18000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Adult" tvg-logo="http://wow-model.com/wp-content/uploads/2017/09/visit-x-tv.jpg", Visit-X HD
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 group-title="Adult", Vivid Red
+http://str6.oxtve.live:8080/vividredhd/mpegts
+#EXTINF:-1 group-title="Adult", Vivid Red HD
+http://103.49.40.100:30010/VIVIDREDHD
+#EXTINF:-1 group-title="Adult", XY Max HD
+http://str6.oxtve.live:8080/xymaxhd/mpegts
+#EXTINF:-1 group-title="Adult", XY Plus HD
+http://str6.oxtve.live:8080/xyplushd/mpegts
+#EXTINF:-1 group-title="Adult", Кино 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 group-title="Adult", Русская ночь
+http://77.235.1.19:8000/play/a007/index.m3u8
