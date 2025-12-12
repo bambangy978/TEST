@@ -602,14 +602,10 @@ http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Adult", Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="Adult", EroAdult HD
-http://88.212.7.11/live/test_eroAdult_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Adult", Extasy HD
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Adult", EAdultxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
-#EXTINF:-1 group-title="Adult", Hustler HD
-http://193.111.244.35:7474/hustlerhd/manifest.m3u8
 #EXTINF:-1 group-title="Adult", Leo HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Adult", Porn Classic
