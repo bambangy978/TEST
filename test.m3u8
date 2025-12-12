@@ -37,13 +37,6 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/RVIKI.m3u8
 
 === ADDITIONAL==
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 group-title="ᴴᴰ" group-logo="" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Premier League - Peacock 
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
 #EXTINF:-1 tvg-id="USBD300002TU" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Ion.png" group-logo="" group-logo="" group-title="ᴴᴰ",ion
 https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
 
@@ -559,10 +552,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 group-title="Adult" tvg-id="",Playboy TV Latin America HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Общие", Ссылка на плейлист устарела
-https://loganettv.vercel.app/strawberry.m3u
-#EXTINF:-1 group-title="Общие", Новая ссылка https://loganettv.vercel.app/strawberry.m3u
-https://loganettv.vercel.app/strawberry.m3u
 #EXTINF:-1 group-title="Adult", Adult IPTV Big Ass 
 http://cdn.adultiptv.net/bigass.m3u8
 #EXTINF:-1 group-title="Adult", Adult IPTV Big Dick 
