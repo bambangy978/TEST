@@ -123,14 +123,6 @@ https://beetv.my.id/x/usee-bioskopindonesia-masihsama.m3u8
 
 === UK TNT Sports ====
 
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="GB : TNT SPORTS 01" tvg-logo="http://145.239.7.84/logos/TNTSports1_Logo_White_RGB_Logo.png" group-title="TNT SPORTS",GB : TNT SPORTS 01
-http://51.89.166.17:3002/index.php?id=6fac0aaead
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="GB : TNT SPORTS 02" tvg-logo="http://145.239.7.84/logos/TNTSports2_Logo_White_RGB_Logo.png" group-title="TNT SPORTS",GB : TNT SPORTS 02
-http://51.89.166.17:3002/index.php?id=d9a76a79cc
-#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="GB : TNT SPORTS 03" tvg-logo="http://145.239.7.84/logos/TNTSports3_Logo_White_RGB_Logo.png" group-title="TNT SPORTS",GB : TNT SPORTS 03
-http://51.89.166.17:3002/index.php?id=5fea4d73db
-#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="GB : TNT SPORTS 04" tvg-logo="http://145.239.7.84/logos/TNTSports4_Logo_White_RGB_Logo.png" group-title="TNT SPORTS",GB : TNT SPORTS 04
-http://51.89.166.17:3002/index.php?id=tntsport4
 #EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png" group-title="SPORTS HD", TNT Sport 1 🇬🇧
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
