@@ -35,40 +35,16 @@ https://jmp2.uk/sam-GB2600013BO.m3u8
 #EXTINF:-1 tvg-id="Rakuten.VIKI.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06-width190-quality100.png" group-logo="" group-title="ᴿᴬᴷᵁᵀᴱᴺ ᵀⱽ",Rakuten Viki ᴴᴰ  
 https://raw.githubusercontent.com/mystery75/m3u8/main/RVIKI.m3u8
 
-=== ADDITIONAL==
-
-#EXTINF:-1 tvg-id="USBD300002TU" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Ion.png" group-logo="" group-logo="" group-title="ᴴᴰ",ion
-https://raw.githubusercontent.com/mystery75/m3u8/main/ION.m3u8
-
-#EXTINF:-1 tvg-id="USBC24000223S" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/IonMystery.png" group-logo="" group-logo="" group-title="ᴴᴰ",ion Mystery
-https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8
-
-#EXTINF:-1 tvg-id="USBD300003LK" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/IonPlus.png" group-logo="" group-logo="" group-title="ᴴᴰ",ion Plus
-https://raw.githubusercontent.com/mystery75/m3u8/main/IONPLUS.m3u8
-#####https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USBD2500012DH" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/EbonyByLionsgate.png" group-logo="" group-title="ᴴᴰ",Ebony by Lionsgate
-https://raw.githubusercontent.com/mystery75/m3u8/main/EBONY.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HerSphereByLionsgate.png" group-logo="" group-title="ᴴᴰ",HerSphere by Lionsgate
-https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
-
-#EXTINF:-1 tvg-id="USBD1200007FE" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/OuterSphereByLionsgate.png" group-logo="" group-title="ᴴᴰ",OuterSphere by Lionsgate
-https://raw.githubusercontent.com/mystery75/m3u8/main/OUTERSPHERE.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-title="ᴴᴰ",MN+ 
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
-#####https://starshare.live:443/live/Winston123/Winston123/98847.ts
-#####https://starshare.live:443/live/star123/star123/178.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="ts599" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MNX.png" group-logo="" group-title="ᴴᴰ",MNX
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
-#####https://starshare.live:443/live/star123/star123/191.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
@@ -78,14 +54,7 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-logo="" group-title="ᴴᴰ",MovieSphere By Lionsgate
 https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="Maxstream.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MaxStream.png" group-logo="" group-logo="" group-title="ᴴᴰ",Max Stream
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
-#EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="ᴴᴰ",Miramax Movies Channel 
+TINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="ᴴᴰ",Miramax Movies Channel 
 https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -94,13 +63,6 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"2528892552c65b5399017c2f2a194ab7":"fc87001860c95eb094c2dd5fc2d2e2bd","3ef088eaf6685839a1d77c9bc89b1e20":"68c8566c7cb4400fac63d0abe8eea6d4","4518f2fc410a5327b26a26e8c0cebd17":"16da291229b2b68ded5419cc35339beb"}
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StudioPremiere.png" group-title="ᴴᴰ",Universal Premiere ᵒᵗᵗ
 https://unipluslivedash.akamaized.net/universalpremiert0/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="Studio.Universal.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StudioUniversal.png" group-logo="" group-logo="" group-title="ᴴᴰ",Studio Universal
-https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -113,12 +75,6 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 #EXTINF:-1 tvg-id="Tapactionflix Hd.ph" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDqmQyNNz--w-zNPAVx8fJLWG1xYahFiohWA&s" group-title="ᴴᴰ",Tap Action Flix
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
-
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19989138_ico.png?ts=1680115454" group-title="ᴴᴰ",FLIK
-https://beetv.my.id/x/usee-flik-masihsama.m3u8
-
-EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19926476_ico.png?ts=1680115404" group-title="ᴴᴰ",BIOSKOP INDONESIA
-https://beetv.my.id/x/usee-bioskopindonesia-masihsama.m3u8
 
 
 === UK TNT Sports ====
@@ -155,24 +111,6 @@ https://7pal.short.gy/tntspts3
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 https://7pal.short.gy/tntspts4
 ############################   SPORTS  ##########################
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="SPORTS HD", Hub Premier1 FHD
-https://7pal.short.gy/HPremier1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="SPORTS HD", Hub Premier2 FHD
-https://7pal.short.gy/HPremier2
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="SPORTS HD", Sky Sport Premier League FHD
-https://7pal.short.gy/skyspt8nz
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="SPORTS HD", USA NetWork FHD
-https://7pal.short.gy/usanetwork
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4nTRLb.png" group-title="SPORTS HD", Astro Premier League FHD
-https://7pal.short.gy/astross1
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f6hG3Ok.png" group-title="SPORTS HD", Astro Premier League 2 FHD
-https://7pal.short.gy/astross2
 
 #EXTINF:-1 group-title="SPORTS HD", World Poker Tour 
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84b00010-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=74cccc9f-4a89-4a77-9d46-ad68b9e23890
