@@ -168,25 +168,9 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 #EXTINF:-1 group-title="SPORTS HD", RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="SPORTS HD", HUB PREMIER 1
-http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/FjKJyFG.jpeg" group-title="SPORTS HD", Ss PREMIER LEAGUE
-https://dl.dropboxusercontent.com/scl/fi/51vk0ol0f0zo1falb559o/supersport-premier-league.m3u8?rlkey=m5fxkwayzm3a1vtdc0vc9p913&st=gc1udhg6
-
-#EXTINF:-1 group-title="SPORTS HD" tvg-logo="https://i.imgur.com/FjKJyFG.jpeg", Astro Grandstand
-#EXTVLCOPT:http-referrer=https://github.com/
-https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/astrograndstand.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/sukan_Trans.png" group-logo="" group-title="SPORTS HD",Sukan RTM
 https://raw.githubusercontent.com/mystery75/m3u8/main/SUKANRTM.m3u8
 #https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 tvg-id="701.unifi" ch-number="701" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-logo="" group-title="SPORTS HD",Unifi Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -414,9 +398,6 @@ https://pipit.barjagaul.workers.dev/play.mpd?id=18190&type=dash
 https://pipit.barjagaul.workers.dev/play.mpd?id=9353&type=dash
 
 ##==== Adult ====
-#EXTINF:-1 tvg-id="Kaloopy TV" tvg-name="Kaloopy TV" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/kaloopy.jpg" group-title="Adult",KALOOPY TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/df2e1f8e-4f47-41b0-bd26-626e8a63caf2/2.m3u8
 
 #EXTINF:-1 group-title="Adult" tvg-id="",Playboy TV Latin America HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
