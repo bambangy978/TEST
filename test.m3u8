@@ -386,7 +386,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/
 https://aspaltvpasti.top/11111/205.mpd
 # Champions TV #
 
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-name="Champions TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 1
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-name="Champions TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS HD", Champions TV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -394,7 +394,7 @@ https://aspaltvpasti.top/11111/205.mpd
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://vidx.semar.my.id/cobaduarr.mpd?id=6685&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-name="Champions TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 1 (Alternative)
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-name="Champions TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS HD", Champions TV 1 (Alternative)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -402,7 +402,7 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=6685&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYmFkdWFyci5tcGQ/aWQ9MTc5MzgmdHlwZT1kYXNo&code=777
 
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-name="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 2
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-name="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS HD", Champions TV 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -410,7 +410,7 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://vidx.semar.my.id/cobaduarr.mpd?id=6686&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-name="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 2 (Alternative)
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-name="Champions TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS HD", Champions TV 2 (Alternative)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -418,7 +418,7 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=6686&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYmFkdWFyci5tcGQ/aWQ9NjY4NiZ0eXBlPWRhc2g=&code=777
 
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 3
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS HD", Champions TV 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -426,7 +426,7 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://vidx.semar.my.id/cobaduarr.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 3 (Alternative)
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-name="Champions TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS HD", Champions TV 3 (Alternative)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -434,7 +434,7 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=6786&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYmFkdWFyci5tcGQ/aWQ9Njc4NiZ0eXBlPWRhc2g=&code=777
 
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-name="Champions TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 5
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-name="Champions TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS HD", Champions TV 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -442,7 +442,7 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYmFkdWFyci5tcGQ/aWQ9OTE4MiZ0eXBlPWRhc2g=&code=777
 
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-name="Champions TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 5 (Alternative)
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-name="Champions TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS HD", Champions TV 5 (Alternative)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -450,7 +450,7 @@ https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://wadukbau.my.id/V1/stream.php?link=aHR0cHM6Ly92aWR4LnNlbWFyLm15LmlkL2NvYmFkdWFyci5tcGQ/aWQ9OTE4MiZ0eXBlPWRhc2g=&code=777
 
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-name="Champions TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="Sports", Champions TV 6
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-name="Champions TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Champions_TV_Logo.png" group-title="SPORTS HD", Champions TV 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
